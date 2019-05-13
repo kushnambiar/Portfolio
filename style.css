@@ -1,0 +1,159 @@
+body{
+	background: url(two.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+
+nav {
+	text-align: right;
+	padding: 20px;
+}
+nav a {
+	opacity:1.0;
+	text-decoration : none;
+	color: white;
+	font-family: Arial;
+	padding: 25px;
+	font-size:20px;
+	
+}
+nav a:hover {
+	font-size:18px;
+	
+	color: orange;
+	transition-duration: .5s;
+	transition-timing-function: ease-in-out;
+}
+#msg {
+	
+	font-family: Comic Sans MS;
+	font-size:100px;
+	color: yellow;
+	text-align: center;
+	padding: 100px;
+	
+}
+
+#msg:hover{
+	color:yellow;
+	opacity:0.0;
+	
+	transition-duration: 3s;
+	transition-timing-function: ease-in-out;
+}
+#foot {
+	text-align: center;
+	color: white;
+	clear:both;
+	font-family: times new roman;
+}
+#dp {
+	float: left;
+	width:40%;
+	height:40%;
+	border: 5px solid white;
+}
+#dp:hover {
+	border: 5px solid black;
+	transition-duration: .5s;
+	transition-timing-function: ease-in-out;
+}
+#me {
+	color:white;
+	padding:30px;
+	font-family: arial;
+	text-align:center;
+	font-size:35px;
+	padding:150px;
+	
+	
+	
+}
+#me a {
+	text-decoration:none;
+	font-weight: bolder;
+	color:#ffed8e;
+}
+#me a:hover {
+	color: yellow;
+	transition-duration: .5s;
+	transition-timing-function: ease-in-out;
+}
+
+.contactl {
+	text-align:center;
+	font-family: arial;
+	font-size:20px;
+	
+	color: white;
+}
+.contactd {
+	text-align:center;
+	font-family: arial;
+	font-size:35px;
+	font-weight:bolder;
+	color:#ffed8e;
+}
+.contactd:hover {
+	color:yellow;
+	font-size:40px;
+	transition-property: all;
+	transition-duration: .5s;
+	transition-timing-function: ease;
+}
+.conimage {
+	width:75px;
+	height:75px;
+	display: block;
+           margin-left: auto;
+           margin-right: auto;
+	padding:20px;
+}
+.conimage:hover  {
+	height:85px;
+	width:85px;
+	transition-property: all;
+	transition-duration: .5s;
+	transition-timing-function: ease;
+}
+#conimagediv a {
+	text-decoration:none;
+}
+
+#intlike {
+	font-family:comic sans ms;
+	font-size:30px;
+	color:#ffed8e;
+	margin:auto;
+	padding:75px;
+	}
+	
+#arttable {
+	margin-left:100px;
+	border:2px solid yellow;
+}
+.artimg{
+	width:250px;
+	height:250px;
+	display:block;
+	padding:10px;
+}
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
